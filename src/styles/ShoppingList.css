@@ -3,11 +3,12 @@
     padding: 32px;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
-    max-width: 800px;
+    justify-content: center;
 }
 
-
+.lmj-shopping-list {
+    width: 100%;
+}
 
 .lmj-sales {
     position: absolute;
